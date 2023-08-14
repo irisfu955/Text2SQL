@@ -6,6 +6,8 @@ import Container from '@mui/material/Container';
 import  {TextField} from '@mui/material';
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
 import { borders } from '@mui/system';
+import {CssBaseline} from "@mui/material";
+import { GlobalStyles } from "@mui/material";
 
 
 
