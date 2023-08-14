@@ -18,8 +18,8 @@ import { borders } from '@mui/system';
 export default function LandingPage() {
   return (
     <>
-      {/* <GlobalStyles styles={{ ul: { margin: 0, padding: 0, listStyle: 'none' }}}/>
-      <CssBaseline /> */}
+      <GlobalStyles styles={{ ul: { margin: 0, padding: 0, listStyle: 'none' }}}/>
+      <CssBaseline />
       
      
       <Container maxWidth="md" component="main" >
