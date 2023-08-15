@@ -6,7 +6,7 @@ import SuppotPage from "./pages/SupportPage";
 import UserTheme from "./UserTheme";
 import { ThemeProvider } from "@mui/material";
 import NavBar from "./components/Navbar";
-
+import SignupPage from "./pages/SignupPage";
 
 import {
   BrowserRouter as Router,
@@ -33,6 +33,9 @@ function App() {
           </Route>
           <Route path="/support">
             <SuppotPage />
+          </Route>
+          <Route path="/signup">
+            <SignupPage />
           </Route>
           <Route path="/">
             <LandingPage />
