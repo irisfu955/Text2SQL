@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-text2sql-dev-151736-authRole",
+      "UnauthRoleArn": "arn:aws:iam::542287307752:role/amplify-text2sql-dev-151736-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::542287307752:role/amplify-text2sql-dev-151736-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-text2sql-dev-151736-deployment",
+      "UnauthRoleName": "amplify-text2sql-dev-151736-unauthRole",
+      "StackName": "amplify-text2sql-dev-151736",
+      "StackId": "arn:aws:cloudformation:us-east-1:542287307752:stack/amplify-text2sql-dev-151736/0ec62490-3ec5-11ee-8cb7-0a217f7912c9",
+      "AmplifyAppId": "dquw5o0go774a"
+    }
+  }
+}
